@@ -13,14 +13,14 @@
 # 실행 환경
 
 # 수행 항목
-[ ] 터미널
-[ ] 권한
-[ ] Docker
-[ ] Dockerfile
-[ ] 포트
-[ ] 볼륨
-[ ] Git
-[ ] GitHub
+- [ ] 터미널
+- [ ] 권한
+- [ ] Docker
+- [ ] Dockerfile
+- [ ] 포트
+- [ ] 볼륨
+- [ ] Git
+- [ ] GitHub
 
 # 검증 방법
 
